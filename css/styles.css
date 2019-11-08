@@ -1,0 +1,25 @@
+body {background-image: url("IMG_0014.JPG");
+background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 3000px 2200px;
+}
+hr{
+border-style:none;
+border-top-style: dotted;
+border-color: #6decb9;
+border-width: 4px;
+
+
+width:45px;
+}
+h1 {color: #e6f8f9}
+h2{color: #e6f8f9}
+h3{color: #e6f8f9}
+h4{color: #e6f8f9}
+h5{color: #e6f8f9}
+li {color: #e6f8f9}
+span {color: #e6f8f9}
+strong {color: #e6f8f9}
+p {color: #e6f8f9}
+
+label {color: #e6f8f9}
